@@ -1,24 +1,24 @@
 # Site settings
-title: Kali Blog
-SEOTitle: Kali 的小站
+title: Amadeus979 Blog
+SEOTitle: Amadeus979 的小站
 header-img: img/post-bg-desk.jpg
-email: kalierincn@outlook.com
-description: "中立最好，学校最坏."
-keyword: "Kali Blog, Kali的小站"
-url: "https://kalicn.github.io"          # your host, for absolute URL
+email: xuruiyuan20000828@163.com
+description: "我永远喜欢助手"
+keyword: "Amadeus979 Blog, Amadeus979的小站"
+url: "https://Amadeus979.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kalicn/kalicn.github.io.git" # you code repository
+github_repo: "https://github.com/Amadeus979/Amadeus979.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "与其看教科书，还不如读Linux源码。"
+sidebar-about-description: "与其瞎试，不如问人"
 sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-github_username:    kalicn
+github_username:    Amadeus979
 
 
 
@@ -27,7 +27,7 @@ github_username:    kalicn
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 13
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -85,20 +85,20 @@ featured-condition-size: 1             # 相同标签数量大于这个数，才
 
 # Friends
 friends: [
-    {
-        title: "七夏浅笑",
-        href: "http://julydate.com/"
-    },{
-        title: "草地上的蚂蚁的博客",
-        href: "https://hillychen.github.io/"
-    },{
-        title: "Jiyiren.Blog",
-        href: "https://jiyiren.github.io/"
-    },{
-        title: "由我管理的NoSchoolBlog",
-        href: "https://kalicn.github.io/noschoolblog/"
-    },{
-        title: "Tianhaoo的博客",
-        href: "https://tianhaoo.github.io/"
-    }    
+    # {
+    #     title: "七夏浅笑",
+    #     href: "http://julydate.com/"
+    # },{
+    #     title: "草地上的蚂蚁的博客",
+    #     href: "https://hillychen.github.io/"
+    # },{
+    #     title: "Jiyiren.Blog",
+    #     href: "https://jiyiren.github.io/"
+    # },{
+    #     title: "由我管理的NoSchoolBlog",
+    #     href: "https://kalicn.github.io/noschoolblog/"
+    # },{
+    #     title: "Tianhaoo的博客",
+    #     href: "https://tianhaoo.github.io/"
+    # }    
 ]
