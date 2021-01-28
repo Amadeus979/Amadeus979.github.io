@@ -3,7 +3,7 @@ title: Amadeus979 Blog
 SEOTitle: Amadeus979 的小站
 header-img: img/post-bg-desk.jpg
 email: xuruiyuan20000828@163.com
-description: "我永远喜欢助手"
+description: "与其瞎试，不如问人"
 keyword: "Amadeus979 Blog, Amadeus979的小站"
 url: "https://Amadeus979.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/Amadeus979/Amadeus979.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "与其瞎试，不如问人"
+sidebar-about-description: "我永远喜欢助手"
 sidebar-avatar: /img/yeswecode.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
