@@ -1,13 +1,13 @@
-I"|�<blockquote>
+I"|�<blockquote>
   <p>正所谓前人栽树，后人乘凉。本博客最先是由Huxpro制作模板，再由BY提供教程的</p>
 
   <p>感谢<a href="https://github.com/huxpro">Huxpro</a>提供的博客模板和<a href="github.com/qiubaiying">BY</a>提供的教程</p>
 
-  <p><a href="http://kalicn.github.io">我的博客</a></p>
+  <p><a href="http://Amadues979.github.io">我的博客</a></p>
 </blockquote>
 
 <h1 id="前言">前言</h1>
-<p>从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客<a href="http://kalicn.github.io">Kali Blog</a>搭建出来了……</p>
+<p>从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客<a href="http://Amadues979s979.github.io">Amadues979 Blog</a>搭建出来了……</p>
 
 <p>本教程针对的是不懂技术又想搭建个人博客的小白，操作简单暴力且快速。当然懂技术那就更好了。</p>
 
@@ -33,7 +33,7 @@
 
 <h3 id="拉取我的博客模板">拉取我的博客模板</h3>
 
-<p>注册完成后搜索 <code class="language-plaintext highlighter-rouge">kalicn.github.io</code> 进入<a href="https://github.com/kalicn/kalicn.github.io">我的仓库</a></p>
+<p>注册完成后搜索 <code class="language-plaintext highlighter-rouge">Amadues979s979.github.io</code> 进入<a href="https://github.Amadues979aAmadues9799/Amadues979.github.io">我的仓库</a></p>
 
 <p><img src="http://upload-images.jianshu.io/upload_images/2178672-1b234fb8549e58aa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
 
@@ -156,7 +156,7 @@ jianshu_username:	jianshu_id
 <h4 id="评论系统">评论系统</h4>
 
 <blockquote>
-  <p>很对人反映 Disqus 评论插件加载不出来，因为 Disqus 在国内加载缓慢，所以我新集成了 Gitalk 评论插件（感谢<a href="https://github.com/FeDemo">@FeDemo</a>的推荐），喜欢折腾的朋友可以看这篇：<a href="http://kalicn.github.io/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/">《为博客添加 Gitalk 评论插件》</a>。 我已经在<code class="language-plaintext highlighter-rouge">_config.yml</code> 配置就好了，只需要填写参数可以了。</p>
+  <p>很对人反映 Disqus 评论插件加载不出来，因为 Disqus 在国内加载缓慢，所以我新集成了 Gitalk 评论插件（感谢<a href="https://github.com/FeDemo">@FeDemo</a>的推荐），喜欢折腾的朋友可以看这篇：<a href="http://Amadues979s979.github.io/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/">《为博客添加 Gitalk 评论插件》</a>。 我已经在<code class="language-plaintext highlighter-rouge">_config.yml</code> 配置就好了，只需要填写参数可以了。</p>
 </blockquote>
 
 <h4 id="网站统计">网站统计</h4>
@@ -569,7 +569,7 @@ Configuration file: /Users/baiying/Blog/_config.yml
 
 <p>若本教程顺利帮你搭建了自己的个人博客，请不要 <strong>害羞</strong>，给我的 <a href="https://github.com/qiubaiying/qiubaiying.github.io">github仓库</a> 点个 <strong>star</strong> 吧！</p>
 
-<h3 id="别无他求点个-star-吧"><strong>别无他求，点个 <a href="https://github.com/kalicn/kalicn.github.io">Star</a> 吧</strong>！</h3>
+<h3 id="别无他求点个-star-吧"><strong>别无他求，点个 <a href="https://github.com/Amadues979sAmadues979adues979.github.io">Star</a> 吧</strong>！</h3>
 
 <p><img src="http://upload-images.jianshu.io/upload_images/2178672-768a38ee9fb0df28.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="" /></p>
 

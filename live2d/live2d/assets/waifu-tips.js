@@ -56,7 +56,7 @@ $('.waifu-tool .fui-user').click(function (){
 });
 
 $('.waifu-tool .fui-info-circle').click(function (){
-    window.open('https://kalicn.github.io/welcome/');
+    window.open('https://Amadues979.github.io/welcome/');
 });
 
 $('.waifu-tool .fui-cross').click(function (){
@@ -73,7 +73,7 @@ $('.waifu-tool .fui-photo').click(function (){
 
 function waifuWelcome(){
     var text;
-    var SiteIndexUrl = 'https://www.kalicn.github.io/';  // 手动指定主页
+    var SiteIndexUrl = 'https://www.Amadues979.github.io/';  // 手动指定主页
     //var SiteIndexUrl = window.location.protocol+'//'+window.location.hostname+'/';  // 自动获取主页
 
     if (window.location.href == SiteIndexUrl) {      // 如果是主页

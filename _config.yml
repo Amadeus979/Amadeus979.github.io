@@ -57,9 +57,9 @@ gitalk:
   enable: true   #是否开启Gitalk评论
   clientID: 5943aeedd7ee1a1cbdf7        # 嘿，别乱看我的秘密                #生成的clientID
   clientSecret: 4ffbc9e4eb8b6aef2b390b2bda69ed6a744c5c07    #生成的clientSecret
-  repo: kalicn.github.io    #仓库名称
-  owner: kalicn    #github用户名
-  admin: kalicn
+  repo: Amadues979.github.io    #仓库名称
+  owner: Amadues979    #github用户名
+  admin: Amadues979
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
   perPage: 15
 
@@ -95,8 +95,8 @@ friends: [
     #     title: "Jiyiren.Blog",
     #     href: "https://jiyiren.github.io/"
     # },{
-    #     title: "由我管理的NoSchoolBlog",
-    #     href: "https://kalicn.github.io/noschoolblog/"
+    #     title: "Amadues979's Blog",
+    #     href: "https://Amadues979.github.io/noschoolblog/"
     # },{
     #     title: "Tianhaoo的博客",
     #     href: "https://tianhaoo.github.io/"
